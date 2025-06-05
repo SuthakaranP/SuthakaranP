@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+**I am P. Suthakaran, currently pursuing a B.Tech degree in Information Technology**
+
+- 🌱 I’m currently learning full-stack development with a focus on React and Angular frameworks.
+- 👯 I’m looking to collaborate on innovative web applications that combine creative UI and efficient backend systems..
+- 🔭 With a strong interest in web technologies, I aim to grow into a skilled full-stack engineer ready to take on real-world projects.
+
+
 <!--
 **SuthakaranP/SuthakaranP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
